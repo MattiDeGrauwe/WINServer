@@ -1,4 +1,3 @@
-# win2016
 # Documentation
 
 ## All
