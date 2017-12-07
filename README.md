@@ -76,8 +76,8 @@
 
 ## Keys
 
-Windows server 2016: PFNDC-CCYF2-TC9F7-4T7QM-DPF64
-Windows 2010: 2RWNB-4QGM4-QD4WQ-QV2RC-DDBP6
+- Windows server 2016: PFNDC-CCYF2-TC9F7-4T7QM-DPF64
+- Windows 2010: 2RWNB-4QGM4-QD4WQ-QV2RC-DDBP6
 ## Sources
 
 - [SCCM 2016 video guide](https://www.youtube.com/watch?v=9wAXO7W-p1U&t=903s)
