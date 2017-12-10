@@ -39,7 +39,7 @@
 
 ### Installatie SQL server
 
-- Install SQL server 2016 (first open 1433/TCP)
+- Install SQL server 2016 (first open 1433/TCP & 4022/TCP)
 
 ## deploy
 
@@ -48,10 +48,10 @@
 
 ### Prerequisites sccm server 2016
 
-- Install SQL server 2016 (first open 1433/TCP)
+- Install SQL server 2016 (first open 1433/TCP & 4022/TCP)
 - Install Windows ADK 10
 - Create System Management Container in the Domain Controller System
-- Extend Active Directory Schema
+- Extend Active Directory Schema (dit gebeurt op de domain controller terwijl de andere aanstaat)
 - Add IIS Server Role
 - Install BITS and Remote Differential Compression features
 - Install Windows Server Update Service
@@ -63,7 +63,7 @@
 
 - Distribution point properties: enable PXE boot (also for unknown computers)
 
-## hosts
+## host
 
 - Windows 10
 - 1 intern netwerkkaart => krijgt IP van dc01
@@ -78,7 +78,8 @@
 
 - Windows server 2016: PFNDC-CCYF2-TC9F7-4T7QM-DPF64
 - Windows 2010: 2RWNB-4QGM4-QD4WQ-QV2RC-DDBP6
+
 ## Sources
 
-- [SCCM 2016 video guide](https://www.youtube.com/watch?v=9wAXO7W-p1U&t=903s)
-- Documentatie Bert Thijs op www.chamilo.hogent.be
+- [SCCM 2016 video guide](https://www.windows-noob.com/forums/topic/15312-how-can-i-install-system-center-configuration-manager-version-1702-current-branch-on-windows-server-2016-with-sql-2016/)
+- Documentatie Dirk Thijs op www.chamilo.hogent.be
