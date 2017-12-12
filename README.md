@@ -14,8 +14,9 @@
 
 ## dc02
 
-- Installatie AD DS / DNS / DHCP
 - toegevoegd aan domein matdeg.gent
+- Installatie AD DS / DNS / DHCP
+- DHCP scope 192.168.1.51 - 192.168.1.99 voor hosts
 
 ## mail
 
@@ -82,4 +83,5 @@
 ## Sources
 
 - [SCCM 2016 video guide](https://www.windows-noob.com/forums/topic/15312-how-can-i-install-system-center-configuration-manager-version-1702-current-branch-on-windows-server-2016-with-sql-2016/)
+- Active directory setup [guide](https://blogs.technet.microsoft.com/canitpro/2017/02/22/step-by-step-setting-up-active-directory-in-windows-server-2016/)
 - Documentatie Dirk Thijs op www.chamilo.hogent.be
