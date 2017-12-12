@@ -20,7 +20,7 @@
 
 ## mail
 
-- Cumulative Update 6 for Exchange Server 2016 (KB3177106)
+- [Cumulative Update 6 for Exchange Server 2016 (KB3177106)](https://www.microsoft.com/en-us/download/details.aspx?id=55520)
 
 ### Prerequisites exchange server 2016
 
