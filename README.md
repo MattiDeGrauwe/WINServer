@@ -1,6 +1,6 @@
-# Documentation
+# Documentation Matti De Grauwe
 
-## All
+## All servers
 
 - Elke server is geïnstalleerd in het Engels met een azerty invoer.
 - Windows server 2016
@@ -63,14 +63,13 @@
 
 ### Configuratie sccm server 2016
 
-- Maak login aan voor gebruiker `Matti` (zie [deze](https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-login) link)
-
+- Maak login aan voor gebruiker `Matti` in SQL (zie [deze](https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-login) link)
 - Distribution point properties: enable PXE boot (also for unknown computers)
 
 ## host
 
 - Windows 10
-- 1 internE netwerkkaart => krijgt IP van dc01
+- 1 interne netwerkkaart => krijgt IP van dc01
 - Install Windows Updates
 - Install virtualbox guest additions
 
@@ -87,5 +86,5 @@
 
 - [SCCM 2016 video guide](https://www.windows-noob.com/forums/topic/15312-how-can-i-install-system-center-configuration-manager-version-1702-current-branch-on-windows-server-2016-with-sql-2016/)
 - Active directory setup [guide](https://blogs.technet.microsoft.com/canitpro/2017/02/22/step-by-step-setting-up-active-directory-in-windows-server-2016/)
-- Documentatie Dirk Thijs op www.chamilo.hogent.be
+- Documentatie Dirk Thijs op https://chamilo.hogent.be/
 - https://technet.microsoft.com/en-us/library/dd894463(v=ws.10).aspx
