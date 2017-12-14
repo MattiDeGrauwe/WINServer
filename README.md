@@ -58,7 +58,6 @@
 - Add IIS Server Role
 - Install BITS and Remote Differential Compression features
 - Install Windows Server Update Service
-- Configurate WSUS
 - Install-WindowsFeature Net-Framework-Core
 - Install SCCM 2016
 
