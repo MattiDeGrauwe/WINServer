@@ -12,6 +12,7 @@
 - Installatie AD DS / DNS / DHCP
 - DHCP scope 192.168.1.51 - 192.168.1.99 voor hosts
 - Maak nieuwe gebruiker `Matti` aan in active Directory
+- Configureer NAT routing (ik heb [deze](https://www.experiencingit.net/windows/windows-server-2016-nat-router/) guide gevolgd!)
 
 ## dc02
 
